@@ -1,7 +1,6 @@
-# Documentation:
+# Rock, Paper, Scissors Game
 
-Rock, Paper, Scissors Game
-
+## Overview
 This program implements a Rock, Paper, Scissors game where the computer
 attempts to predict the user\'s next move based on their past choices.
 
