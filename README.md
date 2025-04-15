@@ -4,7 +4,7 @@
 This program implements a Rock, Paper, Scissors game where the computer
 attempts to predict the user\'s next move based on their past choices.
 
-**Game Rules:**
+## Game Rules:
 
 - **Rock** beats **Scissors**.
 
@@ -12,7 +12,7 @@ attempts to predict the user\'s next move based on their past choices.
 
 - **Paper** beats **Rock**.
 
-**How to Play:**
+## How to Play:
 
 1.  The program will prompt you to enter a number representing your
     choice:
@@ -32,7 +32,7 @@ attempts to predict the user\'s next move based on their past choices.
 4.  The game continues until either you or the computer reaches a score
     of 10.
 
-**Functions:**
+## Functions:
 
 - **update_counts(user_input):**
 
@@ -62,8 +62,8 @@ attempts to predict the user\'s next move based on their past choices.
     computer\'s prediction.
 
   - It prints the result of the round and the current scores.
-
-**Variables:**
+    
+## Variables:
 
 - **count_rock, count_paper, count_scissors:** These variables store the
   number of times the user has chosen each option.
@@ -74,7 +74,7 @@ attempts to predict the user\'s next move based on their past choices.
 - **valid_entries:** A list containing the valid input values (\'0\',
   \'1\', \'2\').
 
-**Game Logic:**
+## Game Logic:
 
 1.  The game starts with the scores and choice counts initialized to 0.
 
